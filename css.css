@@ -1,0 +1,19 @@
+body {
+  background: #000000;
+}
+h1 {
+    color: #402d0b;
+    position: sticky;
+    text-align: center;
+}
+p {
+  color: #402d0b; 
+  text-align: center; 
+}
+.a {
+    text-align: center;
+}
+div {
+    text-align: center;
+    color: #402d0b;
+}
